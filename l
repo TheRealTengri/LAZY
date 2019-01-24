@@ -281,7 +281,7 @@ function banner
 	echo -e "$COL         ██║     ██╔══██╗╚══███╔╝╚██╗ ██╔╝$CE"
 	echo -e "$COL         ██║     ███████║  ███╔╝  ╚████╔╝ $CE   by "$COL"ISAAC TATE"
 	echo -e "$COL         ██║     ██╔══██║ ███╔╝    ╚██╔╝  $CE"
-	echo -e "$COL    The  ███████╗██║  ██║███████╗   ██║  script$CE"
+	echo -e "$COL         ███████╗██║  ██║███████╗   ██║  $CE"
 	echo -e "$COL         ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   $CE"
 	echo -e ""$YS"if"$CE") Ifconfig           "$YS"l"$CE") Local IPs & gateways "$RS"|"$CE"  "$YS"scan"$CE") Arp-scan network"
 	if [[ "$WLANCHECKING" = "" ]]
